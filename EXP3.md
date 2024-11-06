@@ -1,7 +1,7 @@
 # Ex.No: 3 To check the number is prime or not and inspect for failures.
  
 ### DATE:                                                                            
-### REGISTER NUMBER : 212222040013
+### REGISTER NUMBER : 212221040129
 ### AIM: 
 Write a python program to check the number is prime or not and inspect for failures.
  
