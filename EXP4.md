@@ -1,7 +1,7 @@
 # Ex.No: 4 check the given number is Armstrong number or not and inspect for failures.
 
 ### DATE:                                                                            
-### REGISTER NUMBER :212222040013
+### REGISTER NUMBER :212221040129
 
 
 ### AIM: 
